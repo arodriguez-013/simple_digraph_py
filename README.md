@@ -29,7 +29,7 @@ To generate graphs from an output file, you will need to have [graphviz](https:/
 ```
 
 Here is an example of a directed graph generated from the above output file:
-<p align="center"><img src="https://github.com/ar013/simple_digraph_py/blob/master/example/EXAMPLE_GRAPH.png"></p>
+<p align="center"><img src="https://github.com/ar013/simple_digraph_py/blob/master/examples/EXAMPLE_GRAPH.png"></p>
 
 Alternatively, you can use the [web-based version of graphviz](http://www.webgraphviz.com/) to generate the graphs by simply copying and pasting your output file into the textbox. (Note: I do NOT recommend this method for larger graphs)
 
